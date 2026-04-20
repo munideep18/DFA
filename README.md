@@ -56,7 +56,7 @@ project-folder/
 
 1. Download or clone the project:
 
-   git clone https://github.com/your-username/dfa-simulator.git
+   git clone https://github.com/munideep18/DFA.git
 
 2. Open the folder
 
